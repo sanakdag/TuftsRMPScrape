@@ -1,5 +1,5 @@
-# keyword.py  ==> finds the keyword in all reviews
-#		  use python3 keyword.py -h for a helpful message
+# avg_rating.py  ==> finds the keyword in all reviews
+#					 use python3 keyword.py -h for a helpful message
 
 import os
 import argparse
